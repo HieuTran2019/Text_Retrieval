@@ -32,4 +32,4 @@ v1.1
 
 ## Reference 
 
-<a herf ="https://www.facebook.com/groups/aivietnam.edu.vn/permalink/1723045898153710/">Project: Text retrieval </a> from AI VIET NAM
+<a href ="https://www.facebook.com/groups/aivietnam.edu.vn/permalink/1723045898153710/">Project: Text retrieval </a> from AI VIET NAM
